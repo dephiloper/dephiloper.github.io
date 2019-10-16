@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Bachelor Thesis
+subtitle: Virtual Reality meets Genetic Algorithms
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2019-10-16
+img: bachelor-thesis.png
+thumbnail: bachelor-thesis-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: August 2018
+client: University
+category: Game Development / Artificial Intelligence / Virtual Reality
+description: This scientific thesis focuses on the comparison of artificial intelligence (AI) algorithms in immersive video games. The practical part achieves the development of a prototypical racing game, which was designed for use in a virtual reality (VR) environment. In addition to the theoretical basics of artificial intelligence and VR simulations, the individual functions of AI technologies in games are examined in more detail. Finally, an opinion poll is carried out in which it is evaluated which of the implemented AI procedures can achieve the most natural effect on the player.
 
 ---

@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Stuck in a Loop
+subtitle: Nordic Game Jam Submission
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2019-10-16
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: April 2018
+client: Game Jam
+category: Game Development
+description: Stuck in a Loop is a rythm game developed during the 2018 Nordic Game Jam. The aim of the game is to live through two independent day sequences together with a friend or a stranger in order to meet and dance at a party. The better the processes during the day, the more successful the meeting at the party will be, until you finally make the bond of friendship.
 
 ---

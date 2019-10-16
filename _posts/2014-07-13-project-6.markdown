@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: VR Giants
+subtitle: Virtual Reality Game - University Project
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2019-10-16
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: July 2017
+client: University
+category: Game Development / Virutal Reality
+description: VR Giants is a virtual reality game developed exclusively for HTC Vive using the Unity SteamVR plugin. The game falls into the genre Tower Defense. With the help of the Vive Controllers the player can move around the world, place new towers and enter already placed towers. You can use offensive abilities on towers to prevent enemy waves from reaching your base.
 
 ---

@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Teeworlds RL Bot
+subtitle: Reinforcement Learning Coursework
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2019-10-16
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: October 2019
+client: University
+category: Reinforcement Learning
+description: This project was created during a university course with the aim to deal with any topic in the field of Machine Learning. The goal was to develop a reinforcement learning bot for the game Teeworlds, which can navigate through a given level, collect items and finish the level.
 
 ---

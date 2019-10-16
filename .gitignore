@@ -1,4 +1,9 @@
 _site
+.bundle/
+.jekyll-metadata
+Gemfile
+Gemfile.lock
+vendor/
 
 # Windows image file caches
 Thumbs.db
