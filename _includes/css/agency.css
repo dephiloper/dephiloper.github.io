@@ -360,7 +360,7 @@ section h3.section-subheading {
     }
 }
 
-.service-heading {
+.interests-heading {
     margin: 15px 0;
     text-transform: none;
 }
@@ -389,8 +389,47 @@ section h3.section-subheading {
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 
+.cv {
+    right: 0;
+    margin: 0 0 15px;
+}
+
+.cv-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 100px;
+}
+
+.cv-hover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+    background: rgba(0, 151, 167, 0.7); /* Fallback when no plugin support */    
+    background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
+}
+
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
     opacity: 1;
+}
+
+.cv .cv-link .cv-hover:hover {
+    opacity: 1;
+}
+
+.cv .cv-link .cv-hover .cv-hover-content {
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    height: 60px;
+    margin-top: -12px;
+    text-align: center;
+    font-size: 23px;
+    color: #fff;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -510,6 +549,7 @@ section h3.section-subheading {
     text-align: center;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
+    text-decoration: none;
 }
 
 .timeline>li .timeline-image h4 {

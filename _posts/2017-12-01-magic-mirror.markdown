@@ -7,7 +7,7 @@ date: 2019-10-16
 img: magic-mirror.png
 thumbnail: magic-mirror-thumbnail.png
 alt: image-alt
-project-date: December 2019
+project-date: December 2017
 client: Private
 category: Front End Development
 repo: Github
