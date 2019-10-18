@@ -247,6 +247,14 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+.navbar-img {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-top: 1px;
+    margin-right: 10px;
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
@@ -331,7 +339,7 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 500;
     line-height: 50px;
 }
