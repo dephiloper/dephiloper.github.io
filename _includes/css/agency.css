@@ -276,6 +276,30 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+
+    .navbar-default.navbar-shrink .navbar-img {
+        width: 26px;
+        height: 26px;
+        margin-top: -4px;
+        margin-right: 16px;
+    }
+
+    .navbar-img {
+        width: 32px;
+        height: 32px;
+        float: left;
+        margin-top: -5px;
+        margin-right: 20px;
+    }
+
+    .navbar-img.navbar-shrink {
+        width: 32px;
+        height: 32px;
+        float: left;
+        margin-top: -5px;
+        margin-right: 20px;
+        background: red;
+    }
 }
 
 header {
