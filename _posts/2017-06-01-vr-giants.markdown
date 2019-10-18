@@ -12,6 +12,14 @@ client: University
 category: Game Development / Virutal Reality
 repo: Github
 repo-url: https://github.com/dephiloper/vr-giants
-description: VR Giants is a virtual reality game developed exclusively for HTC Vive using the Unity SteamVR plugin. The game falls into the genre Tower Defense. With the help of the Vive Controllers the player can move around the world, place new towers and enter already placed towers. You can use offensive abilities on towers to prevent enemy waves from reaching your base.
+description: VR Giants is a virtual reality game developed exclusively
+    for HTC Vive using the Unity SteamVR plugin. The game falls into the genre
+    Tower Defense. With the help of the Vive Controllers the player can move
+    around the world, place new towers and enter already placed towers. You
+    can use offensive abilities on towers to prevent enemy waves from reaching
+    your base. Special to this project is the implementation of a gesture
+    recognition, which was realized by recording the movement of the Vive
+    controller. The Unity SteamVR plugin and the HTC Vive were used for the
+    implementation.
 
 ---

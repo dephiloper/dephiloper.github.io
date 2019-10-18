@@ -1,6 +1,6 @@
 ---
 title: Bachelor Thesis
-subtitle: Virtual Reality meets Genetic Algorithms
+subtitle: Virtual Reality to evaluate game AI
 layout: default
 modal-id: 3
 date: 2019-10-16
@@ -12,6 +12,14 @@ client: University
 category: Game Development / Artificial Intelligence / Virtual Reality
 repo: Github
 repo-url: https://github.com/dephiloper/bachelor-thesis
-description: This scientific thesis focuses on the comparison of artificial intelligence (AI) algorithms in immersive video games. The practical part achieves the development of a prototypical racing game, which was designed for use in a virtual reality (VR) environment. In addition to the theoretical basics of artificial intelligence and VR simulations, the individual functions of AI technologies in games are examined in more detail. Finally, an opinion poll is carried out in which it is evaluated which of the implemented AI procedures can achieve the most natural effect on the player.
+description: My bachelor thesis focused on the comparison of artificial
+    intelligence algorithms in immersive video games. The practical
+    part of the thesis addressed the development of a prototypical racing
+    game, which was designed for the use in a virtual reality
+    environment. In addition to the theoretical basics of artificial
+    intelligence and VR simulations, the individual functions of AI
+    technologies in games were examined in more detail. Finally, an opinion
+    poll was conducted to assess which of the AI procedures implemented
+    could have the most natural effect on the player.
 
 ---

@@ -278,18 +278,18 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink .navbar-img {
-        width: 26px;
-        height: 26px;
-        margin-top: -4px;
-        margin-right: 16px;
+        width: 22px;
+        height: 22px;
+        margin-top: -2px;
+        margin-right: 12px;
     }
 
     .navbar-img {
-        width: 32px;
-        height: 32px;
+        width: 26px;
+        height: 26px;
         float: left;
-        margin-top: -5px;
-        margin-right: 20px;
+        margin-top: -2.5px;
+        margin-right: 16px;
     }
 
     .navbar-img.navbar-shrink {

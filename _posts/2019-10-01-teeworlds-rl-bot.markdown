@@ -12,6 +12,11 @@ client: University
 category: Reinforcement Learning
 repo: Github
 repo-url: https://github.com/dephiloper/independent-coursework-rl
-description: This project was created during a university course with the aim to deal with any topic in the field of Machine Learning. The goal was to develop a reinforcement learning bot for the game Teeworlds, which can navigate through a given level, collect items and finish the level.
+description: During a university course, a reinforcement learning environment
+    was developed for the game Teeworlds. The Deep Q-learning algorithm was
+    applied to a simplified form of the game with the aim of completing several
+    self-created test levels. The environment was developed with python and the
+    machine learning ecosystem pytorch. This project was carried out together
+    with a fellow student.
 
 ---
