@@ -890,8 +890,7 @@ ul.social-buttons li a.color-github:active {
 
 .btn-centered {
     margin:0 auto;
-    display:block;
-    width: fit-content;
+    display:table;
     margin-top: 60px;
     margin-bottom: -80px;
 }
