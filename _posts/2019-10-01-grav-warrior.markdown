@@ -20,6 +20,6 @@ description: Gravity Warrior is a 2D couch-coop twin-stick shooter
     influences both the player and his projectiles. Gravity Warrior was developed
     as a university project in a team of four students with the use of the game
     engine <a href='https://godotengine.org/'>Godot</a>. (Tumbnail image by Tom
-    Dietl.)
+    Dietel.)
 
 ---
