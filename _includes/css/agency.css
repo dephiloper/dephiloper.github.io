@@ -856,6 +856,31 @@ ul.social-buttons li a:active {
     background-color: #{{ site.data.template.color.primary }};
 }
 
+ul.social-buttons li a.color-twitter:hover,
+ul.social-buttons li a.color-twitter:focus,
+ul.social-buttons li a.color-twitter:active {
+    background-color: #1DA1F2;
+}
+
+ul.social-buttons li a.color-stack-overflow:hover,
+ul.social-buttons li a.color-stack-overflow:focus,
+ul.social-buttons li a.color-stack-overflow:active {
+    background-color: #ef8236;
+}
+
+ul.social-buttons li a.color-linkedin:hover,
+ul.social-buttons li a.color-linkedin:focus,
+ul.social-buttons li a.color-linkedin:active {
+    background-color: #2867B2;
+}
+
+ul.social-buttons li a.color-github:hover,
+ul.social-buttons li a.color-github:focus,
+ul.social-buttons li a.color-github:active {
+    background-color: #999;
+}
+
+
 .btn:focus,
 .btn:active,
 .btn.active,
