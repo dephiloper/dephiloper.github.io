@@ -431,6 +431,7 @@ section h3.section-subheading {
     position: relative;
     margin: 0 auto;
     max-width: 100px;
+    visibility: visible;
 }
 
 .cv-hover {
@@ -462,6 +463,12 @@ section h3.section-subheading {
     text-align: center;
     font-size: 23px;
     color: #fff;
+}
+
+@media all and (max-width: 991px) {
+    .cv-hover {
+        visibility: hidden;
+    }
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
