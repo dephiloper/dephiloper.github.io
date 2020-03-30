@@ -1,8 +1,8 @@
 ---
 title: 3D Network Shooter OpenGL
-subtitle: Network Shooter implemented with OpenGL and C++
+subtitle: Written in C++ with Raycasting
 layout: default
-modal-id: 9
+modal-id: 1
 date: 2020-02-01
 video: cubeshot.mp4
 thumbnail: cubeshot-thumbnail.png
