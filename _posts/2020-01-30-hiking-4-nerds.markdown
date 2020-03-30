@@ -17,6 +17,6 @@ description: This app was developed within one semester for a project assignment
   Cross-Platform Framework Flutter with the programming language Dart. One of the main features
   of the app is that it only uses map material and geodata from Open-Street-Map. Furthermore,
   all map data is hosted on a university server to avoid dependence on external services.
-  Download Link https://github.com/dephiloper/HikingForNerds/archive/v0.3.zip
+  <a href='https://github.com/dephiloper/HikingForNerds/archive/v0.3.zip'>Download Link</a>
 
 ---
