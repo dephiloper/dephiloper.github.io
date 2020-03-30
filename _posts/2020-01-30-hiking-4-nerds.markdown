@@ -1,6 +1,7 @@
 ---
 title: Hiking 4 Nerds
 subtitle: Hiking app made with flutter
+layout: default
 modal-id: 2
 date: 2020-01-30
 video: hiking-4-nerds.mp4
