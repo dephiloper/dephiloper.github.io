@@ -1,10 +1,9 @@
 ---
 title: Hiking 4 Nerds
-subtitle: Hiking app for circular hiking trails with interesting stops developed in Flutter
-layout: default
+subtitle: Hiking app made with flutter
 modal-id: 2
 date: 2020-01-30
-img: hiking-4-nerds.png
+video: hiking-4-nerds.mp4
 thumbnail: hiking-4-nerds-thumbnail.png
 alt: image-alt
 project-date: Januar 2020
