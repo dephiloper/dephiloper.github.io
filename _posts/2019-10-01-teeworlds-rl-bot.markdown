@@ -2,9 +2,9 @@
 title: Teeworlds RL Bot
 subtitle: Reinforcement Learning Coursework
 layout: default
-modal-id: 2
+modal-id: 4
 date: 2019-10-16
-img: teeworlds-rl-bot.gif
+video: teeworlds-rl-bot.mp4
 thumbnail: teeworlds-rl-bot-thumbnail.png
 alt: image-alt
 project-date: October 2019

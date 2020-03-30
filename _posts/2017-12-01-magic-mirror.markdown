@@ -2,7 +2,7 @@
 title: Selfmade Magic Mirror
 subtitle: Handmade Magic Mirror as a gift
 layout: default
-modal-id: 5
+modal-id: 7
 date: 2019-10-16
 img: magic-mirror.png
 thumbnail: magic-mirror-thumbnail.png

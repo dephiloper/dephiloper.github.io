@@ -2,9 +2,9 @@
 title: Stuck in a Loop
 subtitle: Nordic Game Jam Submission
 layout: default
-modal-id: 4
+modal-id: 5
 date: 2019-10-16
-img: stuck-in-a-loop.gif
+video: stuck-in-a-loop.mp4
 thumbnail: stuck-in-a-loop-thumbnail.png
 alt: image-alt
 project-date: April 2018

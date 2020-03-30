@@ -2,9 +2,9 @@
 title: Gravity Warrior
 subtitle: 2D Twinstick Shooter
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2019-10-16
-img: grav-warrior.gif
+video: grav-warrior.mp4
 thumbnail: grav-warrior-thumbnail.png
 alt: image-alt
 project-date: October 2019

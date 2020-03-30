@@ -2,7 +2,7 @@
 title: VR Giants
 subtitle: Virtual Reality Game - University Project
 layout: default
-modal-id: 6
+modal-id: 8
 date: 2019-10-16
 img: vr-giants.png
 thumbnail: vr-giants-thumbnail.png

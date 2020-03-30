@@ -2,9 +2,9 @@
 title: Bachelor Thesis
 subtitle: Virtual Reality to evaluate game AI
 layout: default
-modal-id: 3
+modal-id: 6
 date: 2019-10-16
-img: bachelor-thesis.gif
+video: bachelor-thesis.mp4
 thumbnail: bachelor-thesis-thumbnail.png
 alt: image-alt
 project-date: August 2018
